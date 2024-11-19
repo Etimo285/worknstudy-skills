@@ -6,12 +6,12 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la différence entre REST et GraphQL ❌ / ✔️
-- les besoins auxquels répond GraphQL ❌ / ✔️
+- la différence entre REST et GraphQL ✔️
+- les besoins auxquels répond GraphQL ❌
 - la définition d'un schéma
-- Query ❌ / ✔️
-- Mutation ❌ / ✔️
-- Subscription ❌ / ✔️
+- Query ✔️
+- Mutation ✔️
+- Subscription ❌
 
 ## 💻 J'utilise
 
@@ -23,7 +23,7 @@
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ❌ / ✔️
 
 [lien du projet](...)
 

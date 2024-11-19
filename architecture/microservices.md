@@ -21,7 +21,7 @@
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ❌ / ✔️
 
 [lien du projet](...)
 
